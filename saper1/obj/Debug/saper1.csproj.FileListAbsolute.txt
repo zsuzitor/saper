@@ -1,0 +1,9 @@
+C:\csharp\form\saper1\saper1\bin\Debug\saper1.exe.config
+C:\csharp\form\saper1\saper1\bin\Debug\saper1.exe
+C:\csharp\form\saper1\saper1\bin\Debug\saper1.pdb
+C:\csharp\form\saper1\saper1\obj\Debug\saper1.csprojResolveAssemblyReference.cache
+C:\csharp\form\saper1\saper1\obj\Debug\saper1.Form1.resources
+C:\csharp\form\saper1\saper1\obj\Debug\saper1.Properties.Resources.resources
+C:\csharp\form\saper1\saper1\obj\Debug\saper1.csproj.GenerateResource.Cache
+C:\csharp\form\saper1\saper1\obj\Debug\saper1.exe
+C:\csharp\form\saper1\saper1\obj\Debug\saper1.pdb
